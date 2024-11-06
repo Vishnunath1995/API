@@ -1,0 +1,14 @@
+{
+"employee":
+{
+"name":"vishnunath",
+"age":"29",
+"skill":"java",
+"email":"narenvishu@gmail.com"
+},
+"company":
+{
+"name":"tcs",
+"id":"4456"
+}
+}
